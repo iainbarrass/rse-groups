@@ -117,7 +117,7 @@ lon = -0.128033
 [glasgow-mvls]
 name = "College of Medical, Veterinary & Life Sciences; University of Glasgow"
 head = "Iain Barrass"
-email = "iain.barrass@glasgow.ac.uk"
+email = "mvls-rse@glasgow.ac.uk"
 postcode = "G12 8QB"
 lat = 55.8739
 lon = -4.2880
